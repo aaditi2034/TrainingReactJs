@@ -1,0 +1,50 @@
+body{
+    background-color: #b2ebf2;
+    margin: 0;
+}
+
+#headingId{
+    background-color: #00bcd4;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#headerNav{
+    display: inline-block;
+    width: 20%;
+    text-align: left;
+    color: floralwhite;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0 auto;
+}
+
+#record{
+    display: inline-block;
+    width: 20%;
+    margin: 0 auto;
+    font-size: 18px;
+    background-color: lightblue; 
+}
+
+#dataFetch{
+    background-color: #e0f7fa;
+    margin: 10px;
+}
+#pagination{
+    width: 35%;
+    margin: 0 auto;
+}
+#currPageAreaId{
+    display: inline;
+    font-size: 19px;
+}
+
+input{
+    margin: 25px;
+    margin-left: 35px;
+    background-color: #00bcd4;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+}
